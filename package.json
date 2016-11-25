@@ -6,7 +6,7 @@
   "repository": "",
   "engines": {
     "node": "6.9.1"
-  }
+  },
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "postinstall": "webpack -p",
